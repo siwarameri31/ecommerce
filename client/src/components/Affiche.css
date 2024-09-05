@@ -1,0 +1,15 @@
+.affiche-container {
+    text-align: center;
+    padding: 0; 
+    margin: 0;
+    overflow: hidden; 
+  }
+  
+  .affiche-container img {
+    width: 100%; 
+    height: 500px;
+    object-fit: cover;
+    display: block; 
+    margin: 0; 
+  }
+  
